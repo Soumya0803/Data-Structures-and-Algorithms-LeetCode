@@ -8,8 +8,8 @@ class Solution:
         if not head:
             return 
         temp=head
-        while (temp):
-            if temp.next and temp.val==temp.next.val:
+        while (temp.next):
+            if temp.val==temp.next.val:
                 temp.next=temp.next.next
             else:
                 temp=temp.next

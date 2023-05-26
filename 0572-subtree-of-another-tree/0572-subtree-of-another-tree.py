@@ -15,9 +15,10 @@ class Solution:
             return True
         return self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
 
-    def sameTree(self, s, t):
-        if not s and not t:
+    def sameTree(self, p, q):
+        if not p and not q:
             return True
-        if s and t and s.val == t.val:
-            return self.sameTree(s.left, t.left) and self.sameTree(s.right, t.right)
-        return False
+        if p and q and p.val == q.val:
+            return self.sameTree(p.left, q.left) and self.sameTree(p.right, q.right)
+        else:
+            return False

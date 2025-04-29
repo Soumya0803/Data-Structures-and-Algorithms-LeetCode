@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Soumya0803/Data-Structures-and-Algorithms-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Soumya0803/Data-Structures-and-Algorithms-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -35,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Soumya0803/Data-Structures-and-Algorithms-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Soumya0803/Data-Structures-and-Algorithms-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
